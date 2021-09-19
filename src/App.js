@@ -458,7 +458,7 @@ export default function App() {
       })}
 
       <footer>
-        <div id="foot">
+        <div class="foot">
           <a id="link" href="https://mahikaportfolio.netlify.app/projects.html">
             View Other Projects
           </a>
