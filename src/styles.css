@@ -8,9 +8,10 @@
 }
 body {
   background-color: lightblue;
+}
+.idk {
   margin: 2rem;
 }
-
 .head {
   background-color: black;
   display: block;
