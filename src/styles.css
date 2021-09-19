@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  background-color: lightblue;
+}
+
+.head {
+  background-color: black;
+  display: block;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+input {
+  padding: 1rem;
+  width: 100%;
+  border: 2px solid black;
+  border-radius: 2rem;
+}
+#output {
+  text-align: center;
+  font-size: 140%;
+}
+
+.foot {
+  background-color: black;
+  display: block;
+  padding: 2rem;
+  margin-top: 2rem;
+  color: white;
+}
+
+#link {
+  text-decoration: none;
+  color: white;
+}
